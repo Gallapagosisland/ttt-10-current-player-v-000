@@ -17,6 +17,7 @@ def current_player(board)
     end
   end
 end
+end
 
 
 end
