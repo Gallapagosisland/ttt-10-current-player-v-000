@@ -15,5 +15,5 @@ def current_player(board)
     elsif counter % 3
       return "O"
     end
-  end
+
 end
